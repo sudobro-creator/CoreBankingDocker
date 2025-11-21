@@ -1,0 +1,11 @@
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\CoreBanking.API.exe
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\appsettings.Development.json
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\appsettings.json
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\CoreBanking.API.dll
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\CoreBanking.API.deps.json
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\CoreBanking.API.runtimeconfig.json
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\CoreBanking.API.pdb
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\Microsoft.OpenApi.dll
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Purple_Serve\Documents\BIT\DevOps\C#\CoreBanking.API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
